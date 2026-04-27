@@ -470,18 +470,3 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 - Inspired by software engineering courses and the need for a simple, reusable report template.  
 - Built with students and first‑time project reporters in mind.
  
-
----
-
-## 📦 How to Use This File
-
-1. **Create a new repository** on GitHub.  
-2. Name it, for example, `software-eng-project-report-guide`.  
-3. In the **description** field (on GitHub), paste:  
-   > *Step‑by‑step tutorial to create a complete software engineering project report for any management system. Includes templates, examples, and checklists.*  
-4. Copy the entire Markdown block above.  
-5. In your local repo (or directly on GitHub), create a file named `README.md` and paste the content.  
-6. (Optional) Add a `LICENSE` file (MIT recommended).  
-7. Commit and push.
-
-Your repository will now serve as a **complete, ready‑to‑use guide** for anyone writing a software engineering project report.
